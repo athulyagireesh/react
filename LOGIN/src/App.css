@@ -1,0 +1,103 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+.full{
+  padding-left: 300%;
+}
+
+.main-page{
+  background-color: white;
+  border-radius: 10%;
+  width: 250px;
+  height: 35vh;
+}
+
+.sign p{
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight:bolder;
+  padding-left: 80px;
+}
+
+.username{
+  padding-left: 30px;
+  padding-top: 10px;
+  width: 150px;
+}
+
+
+.username input{
+  height: 25px;
+  background-color:lightgrey;
+}
+
+.password{
+  padding-left: 30px;
+  padding-top: 15px;
+  width: 150px;
+}
+
+.password input{
+  height: 25px;
+  background-color:lightgrey;
+}
+
+.remember {
+  display: flex;
+  padding-left: 30px;
+  font-weight: bold ;
+  font-size: 40%;
+  padding-top: 5px;
+  color:grey;
+  gap: 1px;
+}
+
+.forgot p{
+  color: grey;
+  padding-left: 55px;
+   font-size: 60%;
+  color:cadetblue;
+}
+
+
+.btn-one{
+  padding-left: 65px;
+}
+
+.sign-btn button{
+  height: 2%;
+  background-color:darkblue;
+  font-weight: lighter;
+  font-style:;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.or p{
+  color: grey;
+  padding-top: 10px;
+  padding-left: 110px;
+  font-size:x-small;
+}
+
+.last{
+  display: flex;
+}
+
+.dont p{
+  color: grey;
+  padding-top: 10px;
+  padding-left: 35px;
+  font-size: 10px;
+}
+
+.up p{
+  color: grey;
+  font-size: 8px;
+  padding-top: 12px;
+  padding-left: 8px;
+  font-weight: bold;
+  color: cadetblue;
+}
