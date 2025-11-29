@@ -1,0 +1,40 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+
+ .nav-bar{
+    display: flex;
+    background-color: aliceblue;
+    width: 93vw;
+    height: 150px;
+    padding-left: 100px;
+ }
+
+ .head h1{
+    color: brown;
+    padding-left: 50px;
+    padding-top: 10px;
+    font-weight: bold;
+ }
+
+ .search-bar{
+    padding-left: 190px;
+    padding-top: 23px;
+ }
+
+ .search-bar input{
+    width: 400px;
+    height: 30px;
+    border-radius: 1%;
+ }
+
+
+ .login{
+    padding-left: 200px;
+    padding-top: 20px;
+ }
+
+ .login button{
+    color: red;
+ }
